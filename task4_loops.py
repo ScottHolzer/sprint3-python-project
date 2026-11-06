@@ -64,7 +64,7 @@ for game in video_game_sales:
 print(nintendo_games)
 print(len(nintendo_games))
 
-Result
+
 
 Wii Sports 82.74
 Super Mario Bros. 40.24
