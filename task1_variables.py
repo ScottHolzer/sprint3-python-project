@@ -49,7 +49,7 @@ total_global_sales = sum(row[column_index] for row in video_game_sales)
 top_game_share = (82.74/total_global_sales)*100
 print(top_game_share)
 
-Result
+
 20
 The average global sales across all 20 games is: 29.3305 million.
 14.10477148360921
