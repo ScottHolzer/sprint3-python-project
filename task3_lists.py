@@ -45,7 +45,7 @@ dataset_info = (len(video_game_sales), 10, 'Video Game Sales')
 print(dataset_info)
 #'A tuple is most appropriate for c) because the data it contains are integers and a string combined.')
 
-Result
+
 
 ['Wii Sports', 'Super Mario Bros.', 'Mario Kart Wii', 'Wii Sports Resort', 'Pokemon Red/Blue', 'Tetris', 'New Super Mario Bros.', 'Wii Play', 'New Super Mario Bros. Wii', 'Duck Hunt', 'Nintendogs', 'Mario Kart DS', 'Pokemon Gold/Silver', 'Wii Fit', 'Kinect Adventures!', 'Grand Theft Auto V', 'Grand Theft Auto: San Andreas', 'Super Mario World', 'Brain Age', 'Pokemon Diamond/Pearl']
 21
