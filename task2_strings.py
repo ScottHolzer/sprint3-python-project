@@ -45,7 +45,7 @@ print(clean_names[2])
 
 print(f'#1 Best Seller: {video_game_sales[0][1]} ({video_game_sales[0][3]}) - ${video_game_sales[0][9]}M global sales')
 
-Result
+
 
 Pokemon
 wii sports
