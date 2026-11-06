@@ -58,7 +58,7 @@ top_game = {'name': video_game_sales[0][NAME], 'year': video_game_sales[0][YEAR]
 for key, value in top_game.items():
     print(key, value)
 
-Result
+
 
 {'Sports': 138.45999999999998, 'Platform': 119.48, 'Racing': 59.24, 'Role-Playing': 72.83, 'Puzzle': 50.480000000000004, 'Misc': 50.84, 'Shooter': 28.31, 'Simulation': 24.76, 'Action': 42.209999999999994}
 {'Nintendo': 17, 'Microsoft': 1, 'Take-Two': 2}
